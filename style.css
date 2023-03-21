@@ -1,0 +1,23 @@
+body{
+    background-color: lightgray;
+    height: 100px;
+    display:grid;
+    justify-items: center;
+    align-items: center;
+}
+
+.container{
+    background-color: white;
+    display: grid;
+    justify-items: center;
+    width: 800px;
+    height: 500px;
+    justify-items: center;
+    padding: 20px;
+    margin: 200px;
+    
+}
+
+.social-icon{
+    width: 20px;
+}
